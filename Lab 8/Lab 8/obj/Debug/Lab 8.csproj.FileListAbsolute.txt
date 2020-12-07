@@ -1,0 +1,10 @@
+G:\New folder (3)\Lab 8\Lab 8\bin\Debug\Lab 8.exe.config
+G:\New folder (3)\Lab 8\Lab 8\bin\Debug\Lab 8.exe
+G:\New folder (3)\Lab 8\Lab 8\bin\Debug\Lab 8.pdb
+G:\New folder (3)\Lab 8\Lab 8\obj\Debug\Lab 8.csprojAssemblyReference.cache
+G:\New folder (3)\Lab 8\Lab 8\obj\Debug\Lab_8.Form1.resources
+G:\New folder (3)\Lab 8\Lab 8\obj\Debug\Lab_8.Properties.Resources.resources
+G:\New folder (3)\Lab 8\Lab 8\obj\Debug\Lab 8.csproj.GenerateResource.cache
+G:\New folder (3)\Lab 8\Lab 8\obj\Debug\Lab 8.csproj.CoreCompileInputs.cache
+G:\New folder (3)\Lab 8\Lab 8\obj\Debug\Lab 8.exe
+G:\New folder (3)\Lab 8\Lab 8\obj\Debug\Lab 8.pdb
