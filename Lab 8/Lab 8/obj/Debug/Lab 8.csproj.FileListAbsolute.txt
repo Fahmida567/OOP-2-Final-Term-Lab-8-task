@@ -9,3 +9,4 @@ G:\New folder (3)\Lab 8\Lab 8\obj\Debug\Lab 8.csproj.CoreCompileInputs.cache
 G:\New folder (3)\Lab 8\Lab 8\obj\Debug\Lab 8.exe
 G:\New folder (3)\Lab 8\Lab 8\obj\Debug\Lab 8.pdb
 G:\New folder (3)\Lab 8\Lab 8\obj\Debug\Lab_8.Form2.resources
+G:\New folder (3)\Lab 8\Lab 8\obj\Debug\Lab_8.Registration.resources
